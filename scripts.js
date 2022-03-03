@@ -109,7 +109,7 @@ function toVictory() {
   drawEl[0].innerText = `DRAW: ${draw}`;
   countEl[0].innerText = `COUNT: ${count}`;
   winEl[0].innerText = `WIN: ${win}`;
-  loseEl[0].innerText = `LOSE: ${lose}`;
+  loseEl[0].innerText = `LOST: ${lose}`;
 }
 
 // TODO: Game count - How many games played
